@@ -51,6 +51,7 @@ const jsonData = [
 // of the HOFs.
 /////////////////
 
+
 // 2) Create a function named "onlyOdd".
 // The function should accept a parameter
 // named "numberArray".
@@ -61,6 +62,7 @@ const jsonData = [
 /////////////
 // Use this array to test your function:
 const testingArray = [1, 2, 4, 17, 19, 20, 21];
+
 
 // 3) Create a function named "makeThemOdd".
 // The function should accept a parameter
@@ -75,6 +77,7 @@ const testingArray = [1, 2, 4, 17, 19, 20, 21];
 /////////////
 // You can use the testing array from #2
 // to test your function.
+
 
 // 4) Create a function named "totalAll".
 // The function should accept a parameter
